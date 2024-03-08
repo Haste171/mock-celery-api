@@ -1,4 +1,3 @@
 fastapi
 celery
 python-decouple
-tempfile
